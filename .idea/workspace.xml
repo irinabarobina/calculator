@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd4383ab-95bf-43f4-8366-3566addd7db0" name="Changes" comment="Add calculator project">
+      <change afterPath="$PROJECT_DIR$/calculator/cookies.and.boxes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
